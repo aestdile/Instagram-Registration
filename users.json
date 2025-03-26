@@ -1,0 +1,87 @@
+
+
+[
+    {
+        "UserID": 1,
+        "Username": "user1",
+        "FirstName": "dbjdb",
+        "LastName": "cnjdkjc",
+        "Password": "1234",
+        "Followers": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "Following": [],
+        "Posts": [],
+        "Login": true
+    },
+    {
+        "UserID": 2,
+        "Username": "user2",
+        "FirstName": "dbjdb",
+        "LastName": "cnjdkjc",
+        "Password": "1234",
+        "Followers": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "Following": [],
+        "Posts": [],
+        "Login": true
+    },
+    {
+        "UserID": 3,
+        "Username": "user",
+        "FirstName": "dbjdb",
+        "LastName": "cnjdkjc",
+        "Password": "1234",
+        "Followers": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "Following": [],
+        "Posts": [],
+        "Login": true
+    },
+    {
+        "UserID": 4,
+        "Username": "user",
+        "FirstName": "dbjdb",
+        "LastName": "cnjdkjc",
+        "Password": "1234",
+        "Followers": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "Following": [],
+        "Posts": [],
+        "Login": true
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

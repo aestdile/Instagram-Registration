@@ -1,0 +1,45 @@
+
+[
+    {
+        "id": 1,
+        "title": "sdfgh",
+        "likes": [
+            1,
+            4
+        ],
+        "comments": [
+            {
+                "id": 1,
+                "name": "Comment 1"
+            },
+            {
+                "id": 2,
+                "name": "Comment 2"
+            }
+        ],
+        "userId": 1
+    },
+    {
+        "id": 2,
+        "title": "Second Post",
+        "likes": [
+            4,
+            5,
+            2
+        ],
+        "comments": [],
+        "userId": 2
+    },
+    {
+        "id": 4,
+        "title": "New Post",
+        "likes": [],
+        "comments": [],
+        "userId": 1
+    }
+]
+
+
+
+
+
