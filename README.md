@@ -3,7 +3,7 @@
 # Instagram Model
 
 <img src="https://img.shields.io/badge/💻%20C%23%20.NET-Gray?style=for-the-badge&logo=csharp&logoColor=white" />  
-<img src="https://img.shields.io/badge/JSON20%FILESr-Purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/JSONr-Purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
 
 </div>
 
