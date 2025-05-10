@@ -1,13 +1,13 @@
 <div align="center">
-📱 Instagram-Registration
 
+# Welcome, I'm Mukhtor Eshboyev🪄
 
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+<img src="https://img.shields.io/badge/💻%20C%23%20.NET-Gray?style=for-the-badge&logo=csharp&logoColor=white" />  
+<img src="https://img.shields.io/badge/Junior%20Developer-Purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
 
 </div>
+
+<hr style="border: 1px solid gray; width: 100%;">
 
 ## 📋 Project Overview
 
