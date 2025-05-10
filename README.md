@@ -1,4 +1,7 @@
+<div align="center">
 # 📱 Instagram-Registration
+</div>
+
 
 <div align="center">
   
