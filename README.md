@@ -1,5 +1,5 @@
 <div align="center">
-# 📱 Instagram-Registration
+📱 Instagram-Registration
 
 
 
