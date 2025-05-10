@@ -1,10 +1,8 @@
 <div align="center">
 # 📱 Instagram-Registration
-</div>
 
 
-<div align="center">
-  
+
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
