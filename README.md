@@ -2,7 +2,7 @@
 
 # Instagram Model
 
-<img src="https://img.shields.io/badge/💻%20C%23%20.NET-Gray?style=for-the-badge&logo=csharp&logoColor=white" />  
+<img src="https://img.shields.io/badge/💻%20GOLANG-Gray?style=for-the-badge&logo=csharp&logoColor=white" />  
 <img src="https://img.shields.io/badge/JSON FILE-Purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
 
 </div>
