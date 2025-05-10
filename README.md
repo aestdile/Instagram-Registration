@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<div align="center">
+<svg width="150" height="150" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
   <!-- Gradient Background -->
   <defs>
     <radialGradient id="instagram-gradient" cx="0.25" cy="1.1" r="1.6">
@@ -10,33 +10,27 @@
       <stop offset="100%" stop-color="#515ecf"/>
     </radialGradient>
   </defs>
-  
   <!-- Main App Icon Shape with Shadow -->
   <g>
     <!-- Drop Shadow -->
     <rect x="52" y="52" width="408" height="408" rx="100" ry="100" fill="rgba(0,0,0,0.1)" />
-    
-    <!-- Main Square with Rounded Corners -->
-    <rect x="46" y="46" width="420" height="420" rx="100" ry="100" fill="url(#instagram-gradient)" />
-    
-    <!-- White Inner Border -->
-    <rect x="85" y="85" width="342" height="342" rx="80" ry="80" fill="none" stroke="white" stroke-width="15" />
-    
-    <!-- Camera Lens Outer Circle -->
-    <circle cx="256" cy="256" r="90" fill="none" stroke="white" stroke-width="15" />
-    
-    <!-- Camera Lens Inner Circle -->
-    <circle cx="256" cy="256" r="65" fill="none" stroke="white" stroke-width="15" />
-    
-    <!-- Camera Flash -->
-    <circle cx="350" cy="160" r="20" fill="white" />
+<!-- Main Square with Rounded Corners -->
+<rect x="46" y="46" width="420" height="420" rx="100" ry="100" fill="url(#instagram-gradient)" />
+
+<!-- White Inner Border -->
+<rect x="85" y="85" width="342" height="342" rx="80" ry="80" fill="none" stroke="white" stroke-width="15" />
+
+<!-- Camera Lens Outer Circle -->
+<circle cx="256" cy="256" r="90" fill="none" stroke="white" stroke-width="15" />
+
+<!-- Camera Lens Inner Circle -->
+<circle cx="256" cy="256" r="65" fill="none" stroke="white" stroke-width="15" />
+
+<!-- Camera Flash -->
+<circle cx="350" cy="160" r="20" fill="white" />
   </g>
-  
   <!-- Shine Effect -->
   <path d="M120,100 Q180,50 250,120 T400,150" fill="none" stroke="rgba(255,255,255,0.4)" stroke-width="8" />
-  
-  <!-- App Name -->
-  <text x="256" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="32" fill="white">Instagram</text>
 </svg>
 
 
