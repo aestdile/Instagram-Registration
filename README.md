@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome, I'm Mukhtor Eshboyev🪄
+# Instagram Model
 
 <img src="https://img.shields.io/badge/💻%20C%23%20.NET-Gray?style=for-the-badge&logo=csharp&logoColor=white" />  
 <img src="https://img.shields.io/badge/Junior%20Developer-Purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
