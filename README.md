@@ -1,3 +1,129 @@
-# Golang-Project
-Like Instagram App
+# 📱 Instagram-Registration
 
+<div align="center">
+  
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+
+</div>
+
+## 📋 Project Overview
+
+A Golang-based Instagram-like application that provides user registration, authentication, post management, and interactive social features like likes and comments. The application tracks engagement metrics in real-time and offers a responsive, user-friendly interface.
+
+## ✨ Features
+
+### 👤 User Management
+- **Registration**: Secure user signup with validation
+- **Login**: Authentication system with session management
+- **Profile Management**: Update user information and settings
+
+### 📝 Content Features
+- **Posts Creation**: Share content with descriptions
+- **Media Upload**: Support for images
+- **Feed Generation**: View posts from followed users
+
+### 💫 Interaction
+- **Likes System**: 
+  - Like/unlike posts
+  - Real-time like counter updates
+  - Track user engagement metrics
+- **Comments**: 
+  - Add comments to posts
+  - Comment counter and management
+
+### 📊 Analytics
+- View engagement statistics
+- Track most popular content
+- Monitor user activity
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Go 1.16+
+- Git
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/aestdile/instagram-registration.git
+
+# Navigate to project directory
+cd instagram-registration
+
+# Run the application
+go run main.go
+```
+
+### Configuration
+Create a `config.json` file in the project root (if not present):
+
+```json
+{
+  "port": "8080",
+  "db_path": "./data"
+}
+```
+
+## 🗄️ Data Structure
+
+The project uses JSON files for data storage:
+
+- `users.json`: Stores user information and credentials
+- `posts.json`: Contains post data, including likes and comments
+
+## 📦 Project Structure
+
+```
+instagram-registration/
+├── main.go              # Application entry point
+├── users.json           # User data storage
+├── posts.json           # Posts data storage
+├── LICENSE.txt          # MIT License
+├── .gitignore           # Git ignore rules
+├── .gitattributes       # Git attributes
+└── README.md            # Project documentation
+```
+
+## 🔍 API Endpoints
+
+### User Management
+- `POST /api/register` - Create new user account
+- `POST /api/login` - Authenticate user
+- `GET /api/users/:id` - Get user profile
+- `PUT /api/users/:id` - Update user profile
+
+### Posts
+- `POST /api/posts` - Create new post
+- `GET /api/posts` - Get all posts
+- `GET /api/posts/:id` - Get specific post
+- `DELETE /api/posts/:id` - Delete post
+
+### Likes
+- `POST /api/posts/:id/like` - Like a post
+- `DELETE /api/posts/:id/like` - Unlike a post
+- `GET /api/posts/:id/likes` - Get post likes count
+
+## 🎯 Future Improvements
+
+- Add followers/following system
+- Implement direct messaging
+- Add notifications system
+- Create mobile application
+- Implement caching for better performance
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
+
+## 👥 Contributors
+
+- [aestdile](https://github.com/aestdile) - Project Creator
+
+---
+
+<div align="center">
+  <p>Made with ❤️ using Go</p>
+</div>
